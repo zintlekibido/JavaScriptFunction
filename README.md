@@ -1,1 +1,1 @@
-# JavaScriptFunction
+# JavaScriptFunctions
