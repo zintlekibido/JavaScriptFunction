@@ -21,7 +21,7 @@ console.log(reverseString("Poetry"));
 
 // TODO: Create a function that takes in a string and returns the number of vowels in the sentence. ***Do not use console.log() inside of the function***
 function countVowels(socialmediaPlatform) {
-  return (socialmediaPlatform.match(/[aeiouy]/gi) || []).length;
+  return (socialmediaPlatform.match(/[aeiou]/gi) || []).length;
 }
 console.log(countVowels("Facebook"))
 
